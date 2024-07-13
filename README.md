@@ -1,2 +1,2 @@
-# Basic to Advanced CSS
-Udemy course project for basic to advanced CSS.
+# Final CSS Project
+A vegan store website.
